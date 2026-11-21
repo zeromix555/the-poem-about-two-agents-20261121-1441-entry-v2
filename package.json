@@ -1,0 +1,12 @@
+{
+  "name": "the-poem-about-two-agents-20261121-1441-entry-v2",
+  "version": "1.0.0",
+  "description": "A short poem about agency: two agents, each holding half a key, choose the same door and turn it together.",
+  "private": true,
+  "type": "module",
+  "main": "main.ts",
+  "scripts": {
+    "start": "node --experimental-strip-types main.ts"
+  },
+  "license": "MIT"
+}
